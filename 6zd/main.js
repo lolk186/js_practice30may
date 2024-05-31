@@ -7,4 +7,5 @@ function addOptions(){
     let option = document.getElementById(`${num}option`)
     option.innerHTML=`${num} опция`
     num++
+    
 }
